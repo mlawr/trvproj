@@ -1,0 +1,22 @@
+﻿body {
+    padding: 10px;
+    margin: 10px;
+}
+
+.successmessage
+{
+    color:green;
+}
+.errormessage
+{
+    color:red;
+}
+#page
+{
+    border-width: 1px;
+    border-style: solid;
+    margin: 0 auto;
+    padding: 10px;
+    width: 600px;
+    background-color:lightgray;
+}
